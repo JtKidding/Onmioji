@@ -81,7 +81,7 @@ body
     margin-top: 70px;
     height: 800px;
     width: 100%;
-    background-image: url('../img/backbround.jpg');
+    background-image: url("../img/backbround.jpg");
     position: absolute;
     background-size: cover;
     z-index: 2;
@@ -92,7 +92,7 @@ body
     margin-top: 870px;
     height: 800px;
     width: 100%;
-    background-image: url(../img/bg3_b6d7d1d.jpg);
+    background-image: url("../img/bg3_b6d7d1d.jpg");
     position: absolute;
     background-size: cover;
     z-index: 2;
@@ -103,7 +103,7 @@ body
     margin-top: 870px;
     height: 900px;
     width: 100%;
-    background-image: url(../img/bg4_2e567cc.jpg);
+    background-image: url("../img/bg4_2e567cc.jpg");
     position: absolute;
     background-size: cover;
     z-index: 0;
@@ -169,7 +169,7 @@ body
     height: 3px;
     align-items: center;
     justify-content: space-between;
-    background-image: url(./img/footer_line_5cb25fa.png);
+    background-image: url("./img/footer_line_5cb25fa.png");
     padding: 0 900px;
     z-index: 1;
 }
